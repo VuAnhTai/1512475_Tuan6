@@ -1,24 +1,24 @@
 ﻿  stdafx.cpp
   Explorer.cpp
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(307): warning C4002: too many actual parameters for macro 'ListView_GetNextItem'
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(307): warning C4311: 'type cast': pointer truncation from 'HWND' to 'int'
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(307): warning C4302: 'type cast': truncation from 'HWND' to 'int'
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(384): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(406): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(445): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(581): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(875): warning C4101: 'filePath': unreferenced local variable
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1063): warning C4566: character represented by universal-character-name '\uCDCD' cannot be represented in the current code page (1252)
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1071): warning C4566: character represented by universal-character-name '\uCDCD' cannot be represented in the current code page (1252)
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1097): warning C4244: 'initializing': conversion from 'LRESULT' to 'BOOL', possible loss of data
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1110): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1116): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1127): warning C4244: 'return': conversion from 'LRESULT' to 'BOOL', possible loss of data
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1159): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\explorer.cpp(1160): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(307): warning C4002: too many actual parameters for macro 'ListView_GetNextItem'
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(307): warning C4311: 'type cast': pointer truncation from 'HWND' to 'int'
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(307): warning C4302: 'type cast': truncation from 'HWND' to 'int'
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(384): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(406): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(445): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(581): warning C4312: 'type cast': conversion from 'long' to 'HMENU' of greater size
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(875): warning C4101: 'filePath': unreferenced local variable
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1063): warning C4566: character represented by universal-character-name '\uCDCD' cannot be represented in the current code page (1252)
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1071): warning C4566: character represented by universal-character-name '\uCDCD' cannot be represented in the current code page (1252)
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1097): warning C4244: 'initializing': conversion from 'LRESULT' to 'BOOL', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1110): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1116): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1127): warning C4244: 'return': conversion from 'LRESULT' to 'BOOL', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1159): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\explorer.cpp(1160): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   DriveSize.cpp
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\drivesize.cpp(57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
-c:\users\welcome\desktop\new folder\1512475_explorer\explorer\drivesize.cpp(63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\drivesize.cpp(57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\welcome\desktop\new folder\1512475_explorer\1512475_explorer\explorer\drivesize.cpp(63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
   Drive.cpp
   Generating Code...
-  Explorer.vcxproj -> C:\Users\Welcome\Desktop\New folder\1512475_Explorer\x64\Debug\Explorer.exe
+  Explorer.vcxproj -> C:\Users\Welcome\Desktop\New folder\1512475_Explorer\1512475_Explorer\x64\Debug\Explorer.exe
